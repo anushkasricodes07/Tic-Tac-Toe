@@ -9,6 +9,8 @@ An interactive, responsive, and clean web-based **Tic-Tac-Toe** game built using
 * **Reset Functionality:** Restart the game at any point with a single click without refreshing the browser.
 * **Responsive Design:** Optimized for both desktop monitors and mobile screens.
 
+  ## Project link:"https://anushkasricodes07.github.io/Tic-Tac-Toe/"
+
 
 
 ## 📂 Project Structure
